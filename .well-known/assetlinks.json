@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.dgon45.shotcraft",
+    "sha256_cert_fingerprints": ["DC:BF:1C:09:AA:DD:31:FA:42:1F:69:80:CF:C3:BE:D2:83:87:78:E3:E1:97:A2:1A:20:71:06:82:7B:A6:F5:E0"]
+  }
+}]
